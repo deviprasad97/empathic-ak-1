@@ -1,8 +1,7 @@
-# My Personal Website
+# My Portfolio Website
 
-#### About
-I love design, sketching and building things and this was a great way of getting practice doing all those
-three things. This is built using vanilla HTML, CSS and Javascript only.
+I love the art of storytelling and am also passionate about design, sketching, and building software. This portfolio website was a great opportunity to practice all of these things. It was built using only vanilla HTML, CSS, and JavaScript, and it has been a great way to showcase my skills and abilities.
 
-
-
+![](images/portfolio_snip1.png)
+![](images/portfolio_snip2.png)
+![](images/portfolio_snip3.png)
