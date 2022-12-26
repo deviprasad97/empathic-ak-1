@@ -23,7 +23,7 @@
 .startscreen {
   width: 100%;
   height: 1000px;
-  max-height: 100vh;
+  max-height: 107vh;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -2006,7 +2006,7 @@
   z-index: 3;
   -webkit-transition: 2s linear;
   transition: 2s linear;
-  background: url(../images/zurich1.gif) center center fixed;
+  /* background: url(../images/zurich1.gif) center center fixed; */
   background-size: cover;
 }
 #eduTimelineWrapper {
