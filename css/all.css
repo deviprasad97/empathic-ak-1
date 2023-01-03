@@ -163,12 +163,13 @@
   opacity: 1;
 }
 .landing_link {
-  top: 25px;
+  top: 39px;
   right: 25px;
   text-decoration: none;
-  border-radius: 10%;
+  border-radius: 5px;
+  border: 1px solid #c8c8c8;
   text-align: center;
-  width: 150px;
+  width: 101px;
   height: 40px;
   -webkit-transition: 50ms ease;
   transition: 50ms ease;
@@ -208,7 +209,7 @@
   background-color: #fff;
 }
 #landing_github {
-  right: 25px;
+  right: 41px;
 }
 #landing_linkedin {
   right: 129px;
@@ -3093,7 +3094,7 @@ html {
   z-index: 10;
 }
 .socMedia {
-  left: 20%;
+  left: 10%;
   width: 40px;
   height: 40px;
   border-radius: 50%;
