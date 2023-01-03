@@ -519,6 +519,7 @@ $(document).ready(function () {
       function () {
         var t = this.getAttribute("data-target"),
           e = 0;
+          $("#message").css({ display: "block" });
         "about" == t
           ? (e = 1)
           : "education" == t
@@ -536,6 +537,7 @@ $(document).ready(function () {
       },
       function () {
         $("#message p").css({ opacity: "0", transform: "translateX(0)" });
+        $("#message").css({ display: "none" });
       }
     ),
     $("#scrollNavigationButtonWrapper .navbuttons").hover(

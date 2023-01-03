@@ -2765,7 +2765,7 @@ html.squarespace-damask.is-expanded
   position: relative;
   height: auto;
   padding-top: 17px;
-  padding-bottom: 17px;
+  padding-bottom: 0px;
 }
 .sqs-block:not(.sqs-block-html):not(.sqs-block-markdown) {
   clear: both;
@@ -39522,4 +39522,8 @@ _:-ms-fullscreen .clipIn:not([data-override-initial-global-animation]),
 
 iframe {
   border-radius: 5px;
+}
+
+.sqs-row {
+  margin-bottom: 60px;
 }
