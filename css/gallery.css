@@ -2200,8 +2200,8 @@ body > .login-wrapper.hidden {
   width: 100%;
 }
 .sqs-layout > .sqs-row {
-  margin-left: -17px;
-  margin-right: -17px;
+  margin-left: 201px;
+  margin-right: 201px;
 }
 .sqs-layout:not(.sqs-editing)
   .sqs-row
